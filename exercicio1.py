@@ -1,4 +1,4 @@
-print("Oi, tudo bem? Vamos brincar de matemática básica comigo?")
+print("Hello World, vamos brincar de matemática comigo?")
 
 nome = (input("comece me dizendo o seu nome."))
 print("Oi", nome)
